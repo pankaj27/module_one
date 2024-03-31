@@ -1,4 +1,4 @@
-# module_one
+# Simple Quiz App
 
 A new Flutter project.
 
